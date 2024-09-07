@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Welcome to NASE.gg',
+  tagline: 'Website for the NASE Discord and FFXIV NA Savage and Extreme raiders.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'naseffxiv', // Usually your GitHub org/user name.
+  projectName: 'nase.gg', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -40,26 +40,13 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'resources',
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+            'https://github.com/naseffxiv/nase.gg/tree/main',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -82,15 +69,33 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'savageSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Savage Raids',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            type: 'docSidebar',
+            sidebarId: 'extremeSidebar',
+            position: 'left',
+            label: 'Extreme Trials',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'criterionSidebar',
+            position: 'left',
+            label: 'Criterion Dungeons',
+          },
+          {
             position: 'right',
+            to: 'https://github.com/naseffxiv/nase.gg',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
+          },
+          {
+            position: 'right',
+            to: 'https://discord.gg/JyfaBQ9XU5',
+            className: 'header-discord-link',
+            'aria-label': 'NASE Discord',
           },
         ],
       },
@@ -98,10 +103,35 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'NASE Info',
             items: [
               {
-                label: 'Tutorial',
+                label: 'About NASE',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Learning Oppurtunities',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Contact Us',
+                to: '/docs/intro',
+              },
+            ],
+          },
+          {
+            title: 'FFXIV Resources',
+            items: [
+              {
+                label: 'Savage Raids',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Extreme Trials',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Criterion Dungeons',
                 to: '/docs/intro',
               },
             ],
@@ -109,17 +139,10 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://discord.gg/JyfaBQ9XU5',
               },
             ],
           },
@@ -127,17 +150,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
