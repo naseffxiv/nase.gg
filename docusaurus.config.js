@@ -61,29 +61,52 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'NASE',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'NASE logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'savageSidebar',
+            type: 'dropdown',
+            label: 'FFXIV Resources',
             position: 'left',
-            label: 'Savage Raids',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'savageSidebar',
+                label: 'Savage Raids',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'extremeSidebar',
+                label: 'Extreme Trials',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'criterionSidebar',
+                label: 'Criterion Dungeons',
+              },
+            ]
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'extremeSidebar',
+            type: 'dropdown',
+            label: 'NASE',
             position: 'left',
-            label: 'Extreme Trials',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'criterionSidebar',
-            position: 'left',
-            label: 'Criterion Dungeons',
+            items: [
+              {
+                label: 'About us',
+                href: '/'
+              },
+              {
+                label: 'Learn more',
+                href: '/'
+              },
+              {
+                label: 'Contact us',
+                href: '/'
+              },
+            ]
           },
           {
             position: 'right',
