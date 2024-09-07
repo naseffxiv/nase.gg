@@ -6,13 +6,13 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #a118db;
+  --ifm-color-primary-dark: #9116c5;
+  --ifm-color-primary-darker: #8914ba;
+  --ifm-color-primary-darkest: #711199;
+  --ifm-color-primary-light: #ad24e7;
+  --ifm-color-primary-lighter: #b12fe8;
+  --ifm-color-primary-lightest: #be50ec;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-discord-logo: url("data:image/svg+xml,%3c%3fxml version='1.0' encoding='UTF-8'%3f%3e %3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='24px' height='24px' viewBox='0 0 24 24' version='1.1'%3e%3cg id='surface1'%3e%3cpath style='stroke:none%3bfill-rule:nonzero%3bfill:rgb(0%25%2c0%25%2c0%25)%3bfill-opacity:1%3b' d='M 18.589844 5.890625 C 17.359375 5.320312 16.050781 4.898438 14.671875 4.660156 C 14.5 4.960938 14.300781 5.371094 14.171875 5.699219 C 12.710938 5.480469 11.261719 5.480469 9.828125 5.699219 C 9.691406 5.371094 9.488281 4.960938 9.320312 4.660156 C 7.941406 4.898438 6.628906 5.320312 5.398438 5.890625 C 2.921875 9.628906 2.25 13.28125 2.578125 16.871094 C 4.230469 18.101562 5.820312 18.839844 7.390625 19.328125 C 7.78125 18.800781 8.121094 18.230469 8.421875 17.640625 C 7.851562 17.429688 7.308594 17.160156 6.800781 16.851562 C 6.941406 16.75 7.070312 16.640625 7.199219 16.539062 C 10.328125 18 13.71875 18 16.808594 16.539062 C 16.941406 16.648438 17.070312 16.75 17.210938 16.851562 C 16.699219 17.160156 16.148438 17.421875 15.589844 17.640625 C 15.890625 18.230469 16.230469 18.800781 16.621094 19.328125 C 18.191406 18.839844 19.789062 18.101562 21.429688 16.871094 C 21.820312 12.699219 20.761719 9.089844 18.609375 5.890625 Z M 8.839844 14.671875 C 7.898438 14.671875 7.128906 13.800781 7.128906 12.730469 C 7.128906 11.660156 7.878906 10.789062 8.839844 10.789062 C 9.800781 10.789062 10.558594 11.660156 10.550781 12.730469 C 10.550781 13.789062 9.800781 14.671875 8.839844 14.671875 Z M 15.148438 14.671875 C 14.210938 14.671875 13.441406 13.800781 13.441406 12.730469 C 13.441406 11.660156 14.191406 10.789062 15.148438 10.789062 C 16.109375 10.789062 16.871094 11.660156 16.859375 12.730469 C 16.859375 13.789062 16.109375 14.671875 15.148438 14.671875 Z M 15.148438 14.671875 '/%3e%3c/g%3e%3c/svg%3e");
@@ -21,13 +21,13 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #e555f8;
+  --ifm-color-primary-dark: #e035f7;
+  --ifm-color-primary-darker: #de25f6;
+  --ifm-color-primary-darkest: #c709e0;
+  --ifm-color-primary-light: #ea75f9;
+  --ifm-color-primary-lighter: #ec85fa;
+  --ifm-color-primary-lightest: #f4b5fc;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
