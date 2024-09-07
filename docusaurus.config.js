@@ -59,12 +59,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/nase-social-card.png',
       navbar: {
         title: 'NASE',
         logo: {
           alt: 'NASE logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -91,7 +91,7 @@ const config = {
           },
           {
             type: 'dropdown',
-            label: 'NASE',
+            label: 'NASE Info',
             position: 'left',
             items: [
               {
@@ -126,23 +126,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'NASE Info',
-            items: [
-              {
-                label: 'About NASE',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Learning Oppurtunities',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Contact Us',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'FFXIV Resources',
             items: [
               {
@@ -160,11 +143,28 @@ const config = {
             ],
           },
           {
+            title: 'NASE Info',
+            items: [
+              {
+                label: 'About NASE',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Learning Oppurtunities',
+                to: '/docs/intro',
+              },
+              {
+                label: 'Contact Us',
+                to: '/docs/intro',
+              },
+            ],
+          },
+          {
             title: 'Community',
             items: [
 
               {
-                label: 'Discord',
+                label: 'Discord Server',
                 href: 'https://discord.gg/JyfaBQ9XU5',
               },
             ],
@@ -173,8 +173,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'GitHub Repository',
+                href: 'https://github.com/naseffxiv/nase.gg',
               },
             ],
           },
