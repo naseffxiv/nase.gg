@@ -99,7 +99,7 @@ const config = {
                 href: '/'
               },
               {
-                label: 'Learn more',
+                label: 'Learning Oppurtunities',
                 href: '/'
               },
               {
