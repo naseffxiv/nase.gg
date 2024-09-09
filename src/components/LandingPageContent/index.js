@@ -2,23 +2,35 @@ import React from 'react';
 import styles from './styles.module.css';
 import CardGenerator from '@site/src/components/CardGenerator';
 import blackCat from '@site/static/arcadion/light-heavyweight/Black_Cat_from_FFXIV.webp'
-import honeyBee from '@site/static/arcadion/light-heavyweight/Honey_B_Lovely_from_FFXIV.webp'
-import bruteBomber from '@site/static/arcadion/light-heavyweight/Brute_Bomber_from_FFXIV.webp'
-import wickedThunder from '@site/static/arcadion/light-heavyweight/Wicked_Thunder_from_FFXIV.webp'
+import naseSocialCard from '@site/static/img/nase-social-card.png'
 
 export default function LandingPageContent() {
   return (
     <div>
       <div className={styles.mainCard}>
         <div className={styles.contentContainer}>
-          <div className={styles.gettingStartedText}>
-            <div className={styles.gettingStartedOne} style={{marginBottom: 10}}>
+          <div className={styles.text}>
+            <div className={styles.headingOne} style={{marginBottom: 10}}>
               Welcome to NASE.gg
+            </div>
+            <div className={styles.headingTwo} style={{marginBottom: 10}}>
+              Website for the NASE Discord and FFXIV NA raiding community.
+            </div>
+            <div className={styles.headingThree} style={{marginBottom: 10}}>
+              NASE.gg serves as a repository for High-end Duty resources as well as an info hub for the NASE Discord Community. 
+              Our repository holds a collection of guides, resources, and tools for High-end content in FFXIV that are commonly used on NA Data Centers. 
+              
+            </div>
+            <div className={styles.headingThree} style={{marginBottom: 10}}>
+              We currently cover the following types of content: Savage Raids, Extreme Trials, and Criterion Dungeons. Feel free to browse our repository or take a look into the NASE Discord Community below.
+            </div>
+            <div className={styles.headingThree} style={{marginBottom: 10}}>
+              NASE.gg is Open-source and contributions are welcome. If you would like to contribute to the site, please visit our GitHub repository.
             </div>
           </div>
           <div className={styles.gridContainer}>
-            <CardGenerator image={blackCat} url="savage/The%20Arcadion/Light-heavyweight/m1s" title='FFXIV Resources' />
-            <CardGenerator image={honeyBee} url="savage/The%20Arcadion/Light-heavyweight/m2s" title='NASE Info' />
+            <CardGenerator image={blackCat} url="/savage/aac" title='FFXIV Resources' />
+            <CardGenerator image={naseSocialCard} url="/about" title='NASE Info' />
           </div>
           {/* 
           <div className={styles.gridContainer}>

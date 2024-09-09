@@ -1,44 +1,41 @@
 # nase.gg
-Website for the NASE Discord and FFXIV NA raiding community.
-# Website
+This reposity is the underlying code for the NASE Discord and FFXIV NA raiding community. It is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Contirubtions are welcome! If you would like to contribute to the site, please read the section below.
+
+## How to contribute
+1. Make a fork of the repository.
+2. Make your edits in the fork.
+3. Create a Pull Requestion. If approved, your edits will be merged into the main repository.
+
+## Testing locally
+Before pushing, it is often a good idea to build and preview the created site locally to check if everything is working as expected. This lets you test changes before committing them to the main repository. Follow the steps below on how to setup your local enviroment.
 
 ### Installation
+Note: This guide shows you how to start your own project assuming you don't know how Docusaurus works or running local enviroments.
 
-```
-$ yarn
-```
+#### Requirements
+You will need Node.js version 18.0 or above to run the development server. To install, visit the link below.
+https://nodejs.org/en/download/package-manager
 
-### Local Development
+#### Create scaffold project
+The easiest way to install Docusaurus is to use the command line tool that helps you scaffold a skeleton Docusaurus website. You can run this command anywhere in a new empty repository or within an existing repository, it will create a new directory containing the scaffolded files.
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```bash
+npx create-docusaurus@latest my-website classic
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+#### Running the development server
+To preview your changes as you edit the files, you can run a local development server that will serve your website and reflect the latest changes.
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```bash
+cd my-website
+npm run start
 ```
 
-Not using SSH:
+By default, a browser window will open at http://localhost:3000.
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+Congratulations! You have just created your first Docusaurus site!
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Knowing the process, you can store the forked NASE.gg project on your local system and simply run the development serverwhere you stored it.
 

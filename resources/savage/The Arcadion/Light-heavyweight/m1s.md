@@ -1,7 +1,13 @@
+---
+title: M1S - Black Cat
+slug: /savage/aac/lhw/m1s
+---
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # M1S - Black Cat
+![Black_Cat_from_FFXIV](/arcadion/light-heavyweight/Black_Cat_from_FFXIV.webp)
 
 ***
 
@@ -52,6 +58,8 @@ TN | Same Bait Intercards | Supp CCW | THD | MTTT
 This video guide is 1-to-1 with NA PF strats.
 :::
 
+***
+
 ## Detailed Fight Overview
 
 ### Quadruple Crossing
@@ -65,7 +73,7 @@ Partner stacks on Cardinals in their safe spot - Light party stacks on East/West
 * Supports rotate counter clock wise to where the DPS took their protean.
 * DPS rotate clockwise to safe spot after baiting.
 
-:::note
+:::tip
 This strat will be used on ALL Quadruple Crossings throughout the fight.
 :::
 
@@ -77,7 +85,7 @@ Stand at Intercardinal clone's Left, move to Cardinal clone's Right.
 Right safe first:
 Stand at Cardinal clone's Right, move to Intercardinal clone's Left.
 
-:::note
+:::tip
 Light Party and Partner Stacks are resolved in the same positions as Quadruple Crossing.
 :::
 
@@ -143,7 +151,7 @@ Protean Spreads are boss relative left to right: Tank - Healer - DPS
 
 MTTT (Everyone but tanks out after 1st stack)
 
-:::note
+:::tip
 You may see: Hector’s Version: LP 1 south west and IN. LP 2 South East and OUT.
 
 Additionally, this mechnic is generally skipped.It won't be seen unless there are a lot of deaths and low DPS.
@@ -153,7 +161,7 @@ Additionally, this mechnic is generally skipped.It won't be seen unless there ar
 
 Telegraphed AoEs and Dashes will appear on the arena. Simply dodge them.
 
-:::note
+:::tip
 Mechanic is generally skipped.
 :::
 
