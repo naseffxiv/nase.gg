@@ -130,15 +130,15 @@ const config = {
             items: [
               {
                 label: 'Savage Raids',
-                to: '/docs/intro',
+                to: '/savage/aac',
               },
               {
                 label: 'Extreme Trials',
-                to: '/docs/intro',
+                to: '/extreme',
               },
               {
                 label: 'Criterion Dungeons',
-                to: '/docs/intro',
+                to: '/criterion',
               },
             ],
           },
@@ -147,15 +147,15 @@ const config = {
             items: [
               {
                 label: 'About NASE',
-                to: '/docs/intro',
+                to: '/about',
               },
               {
                 label: 'Learning Oppurtunities',
-                to: '/docs/intro',
+                to: '/learning',
               },
               {
                 label: 'Contact Us',
-                to: '/docs/intro',
+                to: '/contact',
               },
             ],
           },
