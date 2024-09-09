@@ -35,7 +35,7 @@ TN | Same Bait Intercards | Supp CCW | THD | MTTT
     Mouser 2 Protean Spreads are boss relative left to right: Tank - Healer - DPS.
   </TabItem>
     <TabItem value="MTTT" label="MTTT">
-    Raining Cats tethers are Melee - Tank - Tank - Tank. The tanks taking the tethers will utilize invulns.
+    Raining Cats tethers are Melee - Tank - Tank - Tank | Tanks mit the first then tether then invuln the last two.
   </TabItem>
 </Tabs>
 
@@ -149,17 +149,30 @@ Protean Spreads are boss relative left to right: Tank - Healer - DPS
 
 ### Raining Cats
 
-MTTT (Everyone but tanks out after 1st stack)
+Two tethers spawn from the boss. These tethers are heavy hitting cleaves that apply a vuln-up debuff to the tethered player. The players who get hit by the tether will not be able to take a second one without dying unless they have an invuln.  
+
+Additionally, two Proximity Based Stacks will target the closest and further players.
+
+#### Stacks
+* Group 1 will bait the close baits. Stand South West, inside the hitbox of the boss.
+* Group 2 will bait the far baits. Stand South East, max melee and out of the hitbox of the boss.
+
+#### Tethers
+* Melee take 1st tethers to the Northwest and North East of the boss. 
+  * Make sure to stand on the outer ring of the hitbox.
+* Tanks take 2nd tethers. The second set of tethers should be mitigated by the tanks.
+  * Melees join their groups.
+* The third and fourth tethers will be invulned by the tanks.
 
 :::tip
-You may see: Hector’s Version: LP 1 south west and IN. LP 2 South East and OUT.
-
-Additionally, this mechnic is generally skipped.It won't be seen unless there are a lot of deaths and low DPS.
+This mechnic is generally skipped. It won't be seen unless there are a lot of deaths and low DPS.
 :::
 
 ### Predaceous Pounce
 
-Telegraphed AoEs and Dashes will appear on the arena. Simply dodge them.
+Telegraphed AoEs and Dashes will appear on the arena from a clone. Additionally, the boss will do a Left/Right cleave as the clone dashes around the arena.
+
+Do your best to avoid the AoEs and Dashes while keeping an eye on the bosses cleave pattern.
 
 :::tip
 Mechanic is generally skipped.

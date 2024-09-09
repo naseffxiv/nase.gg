@@ -13,13 +13,9 @@ export default function LandingPageContent() {
             <div className={styles.headingOne} style={{marginBottom: 10}}>
               Welcome to NASE.gg
             </div>
-            <div className={styles.headingTwo} style={{marginBottom: 10}}>
-              Website for the NASE Discord and FFXIV NA raiding community.
-            </div>
             <div className={styles.headingThree} style={{marginBottom: 10}}>
-              NASE.gg serves as a repository for High-end Duty resources as well as an info hub for the NASE Discord Community. 
-              Our repository holds a collection of guides, resources, and tools for High-end content in FFXIV that are commonly used on NA Data Centers. 
-              
+            NASE.gg serves as a repository for High-end Duty resources as well as an info hub for the North America Savage and Extreme (NASE) Discord Community. 
+            Our repository holds a collection of guides, resources, and tools for High-end content in FFXIV that are commonly used on NA Data Centers 
             </div>
             <div className={styles.headingThree} style={{marginBottom: 10}}>
               We currently cover the following types of content: Savage Raids, Extreme Trials, and Criterion Dungeons. Feel free to browse our repository or take a look into the NASE Discord Community below.
