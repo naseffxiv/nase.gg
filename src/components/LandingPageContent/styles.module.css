@@ -5,26 +5,27 @@
     justify-content: center;
   }
   
-  .gettingStartedText {
+  .text {
     margin-top: 50px;
     margin-left: 50px;
   }
   
-  .gettingStartedOne {
+  .headingOne {
     color: var(--ifm-color-primary);
     font-size: 30px;
-    max-width: 396px;
     font-weight: bold;
     line-height: 100%;
+    text-align: center
   }
   
-  .gettingStartedTwo {
+  .headingTwo {
     margin-top: 20px;
     font-size: 20px;
     font-weight: bold;
+    text-align: center
   }
   
-  .gettingStartedThree {
+  .headingThree {
     margin-top: 20px;
     font-size: 16px;
     font-weight: 500;
@@ -38,7 +39,7 @@
   .gridContainer {
     display: grid;
     margin-left: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     grid-gap: 20px;
     grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
     place-content: center;

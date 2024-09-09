@@ -61,7 +61,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/nase-social-card.png',
       navbar: {
-        title: 'NASE',
+        title: 'NASE.gg',
         logo: {
           alt: 'NASE logo',
           src: 'img/logo.png',
@@ -96,15 +96,15 @@ const config = {
             items: [
               {
                 label: 'About us',
-                href: '/'
+                href: '/about'
               },
               {
                 label: 'Learning Oppurtunities',
-                href: '/'
+                href: '/learning'
               },
               {
                 label: 'Contact us',
-                href: '/'
+                href: '/contact'
               },
             ]
           },
