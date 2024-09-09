@@ -1,6 +1,6 @@
 ---
 title: Light-heavyweight
-slug: /savage/aac/lhw
+slug: /aac/lhw
 pagination_next: null
 pagination_prev: null
 ---

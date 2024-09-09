@@ -1,6 +1,6 @@
 ---
 title: Another Sil'dihn Subterrane
-slug: /criterion/ew/ass
+slug: /criterion_ew/ass
 sidebar_position: 2
 pagination_next: null
 pagination_prev: null

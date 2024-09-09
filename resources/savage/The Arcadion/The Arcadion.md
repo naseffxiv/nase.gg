@@ -1,6 +1,6 @@
 ---
 title: The Arcadion
-slug: /savage/aac
+slug: /aac
 pagination_next: null
 pagination_prev: null
 ---

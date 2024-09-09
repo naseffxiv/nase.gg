@@ -1,6 +1,6 @@
 ---
 title: Endwalker Criterion Dungeons
-slug: /criterion/ew
+slug: /criterion_ew
 sidebar_position: 1
 pagination_next: null
 pagination_prev: null

@@ -1,7 +1,7 @@
 ---
 title: Ex. 2 - Everkeep
-slug: /extreme/dt/everkeep
-sidebar_position: 3
+slug: /extreme_dt/everkeep
+sidebar_position: 2
 pagination_next: null
 pagination_prev: null
 ---

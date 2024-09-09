@@ -1,7 +1,7 @@
 ---
 title: Ex. 1 - Worqor Lar Dor
-slug: /extreme/dt/worqor_lar_dor
-sidebar_position: 2
+slug: /extreme_dt/worqor_lar_dor
+sidebar_position: 1
 pagination_next: null
 pagination_prev: null
 ---

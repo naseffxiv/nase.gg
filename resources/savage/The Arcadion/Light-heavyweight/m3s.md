@@ -1,6 +1,6 @@
 ---
 title: M3S - Brute Bomber
-slug: /savage/aac/lhw/m3s
+slug: /aac/lhw/m3s
 pagination_next: null
 pagination_prev: null
 ---

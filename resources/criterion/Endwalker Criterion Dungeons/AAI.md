@@ -1,6 +1,6 @@
 ---
 title: Another Aloalo Island
-slug: /criterion/ew/aai
+slug: /criterion_ew/aai
 sidebar_position: 4
 pagination_next: null
 pagination_prev: null
