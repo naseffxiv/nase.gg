@@ -1,6 +1,6 @@
 ---
 title: M4S - Wicked Thunder
-slug: /savage/aac/lhw/m4s
+slug: /aac/lhw/m4s
 pagination_next: null
 pagination_prev: null
 ---

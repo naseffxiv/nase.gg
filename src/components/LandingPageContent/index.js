@@ -27,11 +27,11 @@ export default function LandingPageContent() {
             </div>
           </div>
           <div className={styles.gridContainer}>
-            <CardGenerator image={arcadion} url="/savage/aac" title='Savage Raids' />
-            <CardGenerator image={zoraalJa} url="/extreme" title='Extreme Trials' />
+            <CardGenerator image={arcadion} url="/aac" title='Latest Savage Raids' />
+            <CardGenerator image={zoraalJa} url="/extreme_dt" title='Latest Extreme Trials' />
           </div>
           <div className={styles.gridContainer}>
-            <CardGenerator image={AAI} url="/criterion" title='Criterion Dungeons' />
+            <CardGenerator image={AAI} url="/criterion_ew" title='Latest Criterion Dungeons' />
             <CardGenerator image={naseSocialCard} url="/about" title='NASE Info' />
           </div>
         </div>

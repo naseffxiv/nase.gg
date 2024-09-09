@@ -1,6 +1,6 @@
 ---
 title: Another Mount Rokkon
-slug: /criterion/ew/amr
+slug: /criterion_ew/amr
 sidebar_position: 3
 pagination_next: null
 pagination_prev: null

@@ -1,6 +1,6 @@
 ---
 title: M1S - Black Cat
-slug: /savage/aac/lhw/m1s
+slug: /aac/lhw/m1s
 pagination_next: null
 pagination_prev: null
 ---
@@ -111,7 +111,7 @@ At the start, dodge into the initial safe tiles. Two of the four inner tiles wil
 
 #### Knock-ups and Knock-downs
 
-The next part of the mechanic will knock up (sending the player forward) or knock down (same spot but unable to move or attack) all Supports or DPS. The paw-marker will dictate who is getting knocked up or down. 
+The next part of the mechanic will knock-up (sending the player forward) or knock-down (same spot but unable to move or attack) all Supports or DPS. The paw-marker will dictate who is getting knocked up or down. 
 
 * Left Arm Glowing + Reeling back = Knock-down
 * Right Arm Glowing + Lunging forward = Knock-up
@@ -134,15 +134,15 @@ Watch which clone is tethered after the first two mechanics go off. The mechanic
 
 #### Quadruple Crossing / Nail Chipper Clone
 
-Resolved in the same fashion as same baits. The only difference is which role starts first.
+Resolved in the same fashion as same baits. Only difference is what role starts first.
 
-* No-marker roles bait first, marked roles bait second. Stay away from marked players.
-* Those who were unmarked will get marked after their baits.
-* The marked players need to stay away from other marked players until they resolve. They can be near the non-marked players.
+* No-marker roles bait first, marked roles baits second. Stay away from marked players.
+* Those who were unmarked, will get marked after their baits.
+ * The markered players  need to stay away from other marked players until they resolve. They can be near the non-marked players.
 
 #### Leaping One-Two Clone
 
-Resolved in the same fashion as same baits. The only difference is an addition of light party stacks.
+Resolved in the same fashion as same baits. Only difference is an addition of light party stacks.
 
 * As the room cleaves go off, light party stacks will appear on 2 players.
 * Light party 1 north, light party 2 south of the boss. Use True North.
@@ -187,7 +187,7 @@ Telegraphed AoEs and Dashes will appear in the arena from a clone. Additionally,
 Do your best to avoid the AoEs and Dashes while keeping an eye on the boss's cleave pattern.
 
 :::tip
-This mechanic is generally skipped.
+Mechanic is generally skipped.
 :::
 
 ### Enrage

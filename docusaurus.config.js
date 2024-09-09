@@ -135,15 +135,15 @@ const config = {
             items: [
               {
                 label: 'Savage Raids',
-                to: '/savage/aac',
+                to: '/aac',
               },
               {
                 label: 'Extreme Trials',
-                to: '/extreme',
+                to: '/extreme_dt',
               },
               {
                 label: 'Criterion Dungeons',
-                to: '/criterion',
+                to: '/criterion_ew',
               },
             ],
           },
