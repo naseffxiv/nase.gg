@@ -184,7 +184,7 @@ const config = {
             ],
           },
         ],
-        copyright: `FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. Built with Docusaurus.`,
+        copyright: `FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. | © SQUARE ENIX CO., LTD. All rights reserved. | All content © their respective authors. | NASE is a non-profit community-owned website.`,
       },
       prism: {
         theme: prismThemes.github,
