@@ -1,8 +1,10 @@
 import React from 'react';
 import styles from './styles.module.css';
 import CardGenerator from '@site/src/components/CardGenerator';
-import blackCat from '@site/static/arcadion/light-heavyweight/Black_Cat_from_FFXIV.webp'
+import arcadion from '@site/static/arcadion/the_arcadion.jpg'
 import naseSocialCard from '@site/static/img/nase-social-card.png'
+import zoraalJa from '@site/static/extreme/Zoraal_Ja_EX_boss.jpg'
+import AAI from '@site/static/criterion/Another_Aloalo_Island.jpg'
 
 export default function LandingPageContent() {
   return (
@@ -15,7 +17,7 @@ export default function LandingPageContent() {
             </div>
             <div className={styles.headingThree} style={{marginBottom: 10}}>
             NASE.gg serves as a repository for High-end Duty resources as well as an info hub for the North America Savage and Extreme (NASE) Discord Community. 
-            Our repository holds a collection of guides, resources, and tools for High-end content in FFXIV that are commonly used on NA Data Centers 
+            Our repository holds a collection of guides, resources, and tools for High-end content in FFXIV that are commonly used on NA Data Centers. 
             </div>
             <div className={styles.headingThree} style={{marginBottom: 10}}>
               We currently cover the following types of content: Savage Raids, Extreme Trials, and Criterion Dungeons. Feel free to browse our repository or take a look into the NASE Discord Community below.
@@ -25,15 +27,13 @@ export default function LandingPageContent() {
             </div>
           </div>
           <div className={styles.gridContainer}>
-            <CardGenerator image={blackCat} url="/savage/aac" title='FFXIV Resources' />
+            <CardGenerator image={arcadion} url="/savage/aac" title='Savage Raids' />
+            <CardGenerator image={zoraalJa} url="/extreme" title='Extreme Trials' />
+          </div>
+          <div className={styles.gridContainer}>
+            <CardGenerator image={AAI} url="/criterion" title='Criterion Dungeons' />
             <CardGenerator image={naseSocialCard} url="/about" title='NASE Info' />
           </div>
-          {/* 
-          <div className={styles.gridContainer}>
-            <CardGenerator image={bruteBomber} url="savage/The%20Arcadion/Light-heavyweight/m3s" title='test' />
-            <CardGenerator image={wickedThunder} url="savage/The%20Arcadion/Light-heavyweight/m4s" title='test' />
-          </div>
-          */}
         </div>
       </div>
     </div>

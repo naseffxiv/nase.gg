@@ -1,6 +1,8 @@
 ---
 title: M2S - Honey B. Lovely
 slug: /savage/aac/lhw/m2s
+pagination_next: null
+pagination_prev: null
 ---
 
 import Tabs from '@theme/Tabs';
