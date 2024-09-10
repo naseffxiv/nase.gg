@@ -13,20 +13,29 @@
   
   .gettingStartedOne {
     margin-bottom: 25px;
-    color: var(--ifm-color-primary);
-    font-size: 30px;
-    max-width: 396px;
-    font-weight: bold;
-    line-height: 100%;
   }
   
-  .gettingStartedTwo {
+  .text {
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  
+  .headingOne {
+    color: var(--ifm-color-primary);
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 100%;
+    text-align: center
+  }
+  
+  .headingTwo {
     margin-top: 20px;
     font-size: 20px;
     font-weight: bold;
+    text-align: center
   }
   
-  .gettingStartedThree {
+  .headingThree {
     margin-top: 20px;
     font-size: 16px;
     font-weight: 500;
@@ -41,6 +50,7 @@
     display: grid;
     margin-left: 50px;
     margin-right: 50px;
+    margin-bottom: 50px;
     grid-gap: 20px;
     grid-row: auto;
     grid-template-columns: 1fr 1fr;

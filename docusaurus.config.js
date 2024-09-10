@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://nase.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -58,10 +58,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       // Replace with your project's social card
       image: 'img/nase-social-card.png',
       navbar: {
-        title: 'NASE',
+        title: 'NASE.gg',
         logo: {
           alt: 'NASE logo',
           src: 'img/logo.png',
@@ -96,15 +101,15 @@ const config = {
             items: [
               {
                 label: 'About us',
-                href: '/'
+                href: '/about'
               },
               {
                 label: 'Learning Oppurtunities',
-                href: '/'
+                href: '/learning'
               },
               {
                 label: 'Contact us',
-                href: '/'
+                href: '/contact'
               },
             ]
           },
@@ -130,15 +135,15 @@ const config = {
             items: [
               {
                 label: 'Savage Raids',
-                to: '/docs/intro',
+                to: '/aac',
               },
               {
                 label: 'Extreme Trials',
-                to: '/docs/intro',
+                to: '/extreme_dt',
               },
               {
                 label: 'Criterion Dungeons',
-                to: '/docs/intro',
+                to: '/criterion_ew',
               },
             ],
           },
@@ -147,15 +152,15 @@ const config = {
             items: [
               {
                 label: 'About NASE',
-                to: '/docs/intro',
+                to: '/about',
               },
               {
                 label: 'Learning Oppurtunities',
-                to: '/docs/intro',
+                to: '/learning',
               },
               {
                 label: 'Contact Us',
-                to: '/docs/intro',
+                to: '/contact',
               },
             ],
           },
@@ -179,7 +184,7 @@ const config = {
             ],
           },
         ],
-        copyright: `FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. Built with Docusaurus.`,
+        copyright: `FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. | © SQUARE ENIX CO., LTD. All rights reserved. | All content © their respective authors. | NASE is a non-profit community-owned website.`,
       },
       prism: {
         theme: prismThemes.github,
