@@ -1,4 +1,7 @@
 ---
+sidebar_position: 3
+sidebar_custom_props:
+  cardImage: 'arcadion/light-heavyweight/Wicked_Thunder_from_FFXIV.webp'
 title: M4S - Wicked Thunder
 slug: /aac/lhw/m4s
 pagination_next: null
