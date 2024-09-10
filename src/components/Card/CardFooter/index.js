@@ -1,5 +1,7 @@
 import React,  { CSSProperties } from 'react';
 import clsx from 'clsx'; 
+import './index.css'
+
 const CardFooter = ({
   className, 
   style, 
@@ -33,7 +35,8 @@ const CardFooter = ({
         textDecoration,
         textBreak,
         textTruncate,
-        textWeight
+        textWeight,
+        'cardFooter'
       )}
       style={style}
     >

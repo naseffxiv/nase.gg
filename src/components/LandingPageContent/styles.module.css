@@ -3,14 +3,16 @@
     grid-gap: 20px;
     max-width: 1180px;
     justify-content: center;
+    padding-top: 2em;
+    padding-bottom: 2em;
   }
   
   .gettingStartedText {
-    margin-top: 50px;
     margin-left: 50px;
   }
   
   .gettingStartedOne {
+    margin-bottom: 25px;
     color: var(--ifm-color-primary);
     font-size: 30px;
     max-width: 396px;
@@ -38,11 +40,11 @@
   .gridContainer {
     display: grid;
     margin-left: 50px;
-    margin-bottom: 20px;
+    margin-right: 50px;
     grid-gap: 20px;
-    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    grid-row: auto;
+    grid-template-columns: 1fr 1fr;
     place-content: center;
-    margin-right: 40px;
   }
   
   .video {

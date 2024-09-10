@@ -1,3 +1,9 @@
+---
+sidebar_position: 1
+sidebar_custom_props:
+  cardImage: 'arcadion/light-heavyweight/Black_Cat_from_FFXIV.webp'
+---
+
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 

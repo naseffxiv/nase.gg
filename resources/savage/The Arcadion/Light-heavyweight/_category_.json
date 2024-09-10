@@ -1,0 +1,14 @@
+{
+    "position": 2.5,
+    "label": "AAC Light-Heavyweight",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "AAC Light-Heavyweight"
+    },
+    "customProps": {
+      "description": "This description can be used in the swizzled DocCard"
+    }
+}

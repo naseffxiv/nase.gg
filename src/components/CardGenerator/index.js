@@ -13,7 +13,7 @@ export default function CardGenerator({image, url, title}) {
                     <CardFooter style={{}} className='text--left'> 
                         <div className='avatar'>
                         <div className='avatar__intro'>
-                            <div className='avatar__name'>{title}</div>
+                            <div className=''>{title}</div>
                         </div>
                         </div>
                     </CardFooter>

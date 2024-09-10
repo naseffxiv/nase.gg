@@ -13,11 +13,9 @@ const CardImage = ({
   const generatedCardImageUrl = useBaseUrl(cardImageUrl);
   return (
     <div
-      className={clsx('card__image', className) + " testing"}
+      className={clsx('card__image', className)}
       style={{style, backgroundImage: 'url(' + cardImageUrl + ')' }} alt={alt} title={title}
     />
   )
 }
 export default CardImage;
-
-// {{ backgroundColor: 'white' , color:'black'}}
