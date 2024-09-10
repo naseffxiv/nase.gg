@@ -7,17 +7,11 @@
     padding-bottom: 2em;
   }
   
-  .gettingStartedText {
-    margin-left: 50px;
-  }
-  
-  .gettingStartedOne {
-    margin-bottom: 25px;
-  }
-  
-  .text {
-    margin-top: 50px;
-    margin-left: 50px;
+  .contentContainer {
+    margin-top: 2em;
+    margin-bottom: 3em;
+    margin-left: 3em;
+    margin-right: 3em;
   }
   
   .headingOne {
@@ -36,7 +30,7 @@
   }
   
   .headingThree {
-    margin-top: 20px;
+    margin-top: 3em;
     font-size: 16px;
     font-weight: 500;
   }
@@ -48,9 +42,7 @@
   /* Getting Started Card container */
   .gridContainer {
     display: grid;
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-bottom: 50px;
+    margin-top: 2em;
     grid-gap: 20px;
     grid-row: auto;
     grid-template-columns: 1fr 1fr;
