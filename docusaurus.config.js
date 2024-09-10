@@ -139,10 +139,6 @@ const config = {
                 label: 'Learning Oppurtunities',
                 to: '/learning',
               },
-              {
-                label: 'Contact Us',
-                to: '/contact',
-              },
             ],
           },
           {
