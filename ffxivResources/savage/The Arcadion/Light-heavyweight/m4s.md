@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 sidebar_custom_props:
   cardImage: 'arcadion/light-heavyweight/Wicked_Thunder_from_FFXIV.webp'
 title: M4S - Wicked Thunder
@@ -12,7 +12,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # M4S - Wicked Thunder
-![Wicked_Thunder_from_FFXIV](/arcadion/light-heavyweight/Wicked_Thunder_from_FFXIV.webp)
+![M4S_Arena.png](/arcadion/light-heavyweight/M4S_Arena.png)
 
 ***
 
@@ -62,3 +62,5 @@ No guide follows NA Party Finder 1-1. When one is made we will include it.
 ## Detailed Fight Overview
 
 Work in progress...
+
+***

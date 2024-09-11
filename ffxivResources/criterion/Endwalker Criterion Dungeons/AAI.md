@@ -1,13 +1,13 @@
 ---
+sidebar_position: 3
+sidebar_custom_props:
+  cardImage: '/criterion/AAI.jpg'
 title: Another Aloalo Island
-slug: /criterion_ew/aai
-sidebar_position: 4
-pagination_next: null
-pagination_prev: null
+slug: /endwalker-criterion/aai
 ---
 
 # Another Aloalo Island
-![Another_Aloalo_Island](/criterion/Another_Aloalo_Island.jpg)
+![Another_Aloalo_Island](/criterion/AAI_Arena.png)
 
 ## [Pastebin Summary](https://pastebin.com/RRSG6YAK)
 ***
@@ -95,3 +95,5 @@ Stack/spread > Forced March 1 + Pizza slice > Forced March 2 + Bombs + Spread/st
 
 1. 1st forced marches resolve right before pizza slice resolves.
 2. 2nd forced marches resolve right before bombs + stack/spread resolve.
+
+***

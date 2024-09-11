@@ -12,7 +12,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # M1S - Black Cat
-![Black_Cat_from_FFXIV](/arcadion/light-heavyweight/Black_Cat_from_FFXIV.webp)
+![M1S_Arena](/arcadion/light-heavyweight/M1S_Arena.png)
 
 ***
 
@@ -196,3 +196,5 @@ Mechanic is generally skipped.
 ### Enrage
 
 The boss casts another Mouser, which will destroy the entire platform, wiping the party.
+
+***

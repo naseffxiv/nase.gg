@@ -1,13 +1,13 @@
 ---
+sidebar_position: 1
+sidebar_custom_props:
+  cardImage: '/criterion/ASS.jpg'
 title: Another Sil'dihn Subterrane
-slug: /criterion_ew/ass
-sidebar_position: 2
-pagination_next: null
-pagination_prev: null
+slug: /endwalker-criterion/ass
 ---
 
 # Another Sil'dihn Subterrane
-![Another_Sil'dihn_Subterrane.jpg](/criterion/Another_Sil'dihn_Subterrane.jpg)
+![Another_Sil'dihn_Subterrane.jpg](/criterion/ASS_Arena.png)
 
 ## [Pastebin Summary](https://pastebin.com/htyvm36x)
 
@@ -32,4 +32,5 @@ JP Banishment: https://www.youtube.com/watch?v=HnSkZZi_u9E&ab_channel=yukizuri
 2nd Fire Mirrors/4 Tiles: Same quads as 2nd boss - https://raidplan.io/plan/kk85GhunNCm_thVk
 
 Corners: For Wires 2 (Cryptic Flames), tank centers the boss and everyone spreads in their quadrant. Burn the boss down before your debuffs expire and ignore the wires completely.
+
 ***

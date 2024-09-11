@@ -120,11 +120,11 @@ const config = {
               },
               {
                 label: 'Extreme Trials',
-                to: '/extreme_dt',
+                to: '/dawntrail-trials',
               },
               {
                 label: 'Criterion Dungeons',
-                to: '/criterion_ew',
+                to: '/endwalker-criterion',
               },
             ],
           },

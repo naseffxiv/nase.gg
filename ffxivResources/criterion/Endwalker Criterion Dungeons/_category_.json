@@ -1,0 +1,15 @@
+{
+    "position": 2.5,
+    "label": "Endwalker Criterion Dungeons",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "Endwalker Criterion",
+      "slug": "endwalker-criterion"
+    },
+    "customProps": {
+      "description": "This description can be used in the swizzled DocCard"
+    }
+}

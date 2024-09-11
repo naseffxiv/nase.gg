@@ -1,16 +1,16 @@
 ---
-title: Ex. 1 - Worqor Lar Dor
-slug: /extreme_dt/worqor_lar_dor
 sidebar_position: 1
-pagination_next: null
-pagination_prev: null
+sidebar_custom_props:
+  cardImage: '/extreme/Valigarmanda.png'
+title: Ex. 1 - Worqor Lar Dor
+slug: /dawntrail-trials/worqor-lar-dor
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # Ex. 1 - Worqor Lar Dor
-![Valigarmanda_NM_boss](/extreme/Valigarmanda_NM_boss.jpg)
+![Valigarmanda.png](/extreme/Valigarmanda.png)
 
 ***
 
@@ -52,3 +52,5 @@ RMMR | South to North | First Feather
 ### EX1 Valigarmanda Guide | Worqor Lar Dor Extreme | Pickup Guide
 
 <YouTube youTubeId="58214kCHdMI" />
+
+***
