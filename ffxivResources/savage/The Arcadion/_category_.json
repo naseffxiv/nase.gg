@@ -1,0 +1,15 @@
+{
+    "position": 2.5,
+    "label": "The Arcadion",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "The Arcadion",
+      "slug": "/aac"
+    },
+    "customProps": {
+      "description": "This description can be used in the swizzled DocCard"
+    }
+}

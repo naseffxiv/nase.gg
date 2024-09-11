@@ -1,0 +1,24 @@
+.features {
+  display: flex;
+  flex-wrap: wrap; /* Allows the features to wrap to new lines */
+  align-items: center;
+  justify-content: center; /* Centers all feature items horizontally */
+  padding: 2rem 0;
+  width: 100%;
+  text-align: center; /* Centers text */
+}
+
+.featureSvg,
+.featureImg {
+  height: 200px;
+  width: 200px;
+  object-fit: contain; /* Ensures the image scales properly */
+  margin: auto; /* Centers the image inside its container */
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap; /* Ensures rows wrap properly */
+  justify-content: center; /* Centers items in the row */
+  width: 100%;
+}
