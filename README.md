@@ -3,7 +3,9 @@ This reposity is the underlying code for the NASE Discord and FFXIV NA raiding c
 
 # How to contribute
 
-Thank you for your interest in contributing to our Docusaurus project! This guide will walk you through the steps to fork the repository, make changes, and submit a pull request (PR) to contribute.
+This guide will walk you through the steps to fork the repository, make changes, and submit a pull request (PR) to contribute.
+
+If you already know how to ccontribute to a GitHub repository, feel free to skip this.
 
 ## Table of Contents
 
