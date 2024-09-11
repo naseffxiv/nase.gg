@@ -1,0 +1,91 @@
+/* src/HomePage.css */
+
+/* Apply Docusaurus dark background color to the entire page */
+body {
+  background-color: var(--ifm-background-color); /* Use Docusaurus dark background color */
+  margin: 0;
+  padding: 0;
+}
+
+.homepage-container {
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+  align-items: center;
+  min-height: 100vh; /* Ensure the page covers full height */
+  padding: 20px; /* Original padding */
+}
+
+.homepage {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  max-width: 800px; /* Limit the maximum width for centering */
+  width: 100%;
+  margin: 0 auto; /* Center the content horizontally */
+  padding-bottom: 40px; /* Added space after the last banner */
+}
+
+.hero-section {
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 40px; /* Added space before the title */
+  color: #fff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.banner {
+  padding: 40px 20px;
+  border-radius: 8px;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Add a subtle shadow for better visual separation */
+  background-size: cover; /* Ensure the background image covers the entire element */
+  background-repeat: no-repeat;
+  background-position: center;
+  text-decoration: none; /* Remove underline from links */
+}
+
+.banner h2, .banner p {
+  font-weight: bold; /* Make text thicker */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Additional text shadow for contrast */
+  color: #fff; /* Ensure text is white for contrast */
+}
+
+.banner:hover {
+  transform: scale(1.05);
+}
+
+/* Specific banner backgrounds */
+.nase-banner {
+  background-image: url('/static/HomePage/nase-background-transparent.png'); /* Use specified image path */
+}
+
+.savage-banner {
+  background-image: url('/static/HomePage/the_arcadion-transparent.png'); /* Use specified image path */
+}
+
+.extreme-banner {
+  background-image: url('/static/HomePage/dawntrail_banner-transparent.png'); /* Use specified image path */
+}
+
+.criterion-banner {
+  background-image: url('/static/HomePage/AAI-transparent.png'); /* Use specified image path */
+}
+
+/* Media query for mobile responsiveness */
+@media (max-width: 768px) {
+  .homepage {
+    padding: 10px;
+    gap: 10px;
+  }
+
+  .banner {
+    padding: 20px 10px; /* Adjust padding for smaller screens */
+  }
+}
