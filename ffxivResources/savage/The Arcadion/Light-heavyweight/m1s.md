@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 
 ## Party Finder Summary
 
-### Party Finder TL;DR
+### Party Finder TL;DR {tldr}
 
 ```
 TN | Same Bait Intercards | Supp CCW | THD | MTTT
@@ -28,13 +28,13 @@ TN | Same Bait Intercards | Supp CCW | THD | MTTT
 
 <Tabs>
   <TabItem value="TN" label="TN" default>
-    Mechanics will be done facing and using True North as the reference point.
+    Mechanics will be done facing and using True North as the reference point. Applies to [Quadruple Crossing](#quadruple-crossing) and [Leaping One-Two Clone](#leaping-one-two-clone)
   </TabItem>
   <TabItem value="Same Bait" label="Same Bait">
-    Proteans on Quadruple Crossing are always baited in the same spot on intercardinals.
+    Proteans on Quadruple Crossing are always baited in the same spot on intercardinals, with DPS baiting the first set unless they have Nailchipper markers.
   </TabItem>
   <TabItem value="Supp CCW" label="Supp CCW">
-    Supports rotate CCW to their protean spot.
+    Supports rotate CCW to their pair and protean spot, and tanks rotate CCW to their LP stack at East and West.
   </TabItem>
     <TabItem value="THD" label="THD">
     Mouser 2 Protean Spreads are boss relative left to right: Tank - Healer - DPS.
@@ -107,14 +107,16 @@ Boss Relative is not widely used. If boss relative, treat where the boss is faci
 
 #### Platform Dodges
 
-At the start, dodge into the initial safe tiles. Two of the four inner tiles will be safe and diagonal from each other. To determine which is safe, start on the side that is NOT getting hit first. Watch if the tile that is getting hit first gets hit again.
+All 16 tiles in the arena will be hit at least once; 12 of them will be hit twice and break, leaving a zig-zag pattern of 4 remaining tiles from North to South or West to East. To dodge all of the hits, start on either of the two inner tiles that is next to the first one hit. Watch if the tile that is getting hit first gets hit a second time.
 
 * If it gets hit only once, dodge into it after one hit.
 * If it gets hit twice, dodge into it after one hit, then back into the other tile once the other is hit.
 
+Notably, the SE inner tile is always hit before the SW inner tile. The zig-zag pattern will always be through the center two columns or rows.
+
 #### Knock-ups and Knock-downs
 
-The next part of the mechanic will knock-up (sending the player forward) or knock-down (same spot but unable to move or attack) all Supports or DPS. The paw-marker will dictate who is getting knocked up or down. 
+The next part of the mechanic will knock-up (sending the player forward) or knock-down (same spot but unable to move or attack) all Supports or DPS. The paw-marker will dictate who is getting knocked up or down. Unlike Normal mode, the clone will always teleport directly behind the affected player's facing rather than dash from its current location.
 
 * Left Arm Glowing + Reeling back = Knock-down
 * Right Arm Glowing + Lunging forward = Knock-up
@@ -141,7 +143,7 @@ Resolved in the same fashion as same baits. Only difference is what role starts 
 
 * No-marker roles bait first, marked roles baits second. Stay away from marked players.
 * Those who were unmarked, will get marked after their baits.
- * The markered players  need to stay away from other marked players until they resolve. They can be near the non-marked players.
+* The markered players need to stay away from other marked players until they resolve. They can be near the non-marked players.
 
 #### Leaping One-Two Clone
 
