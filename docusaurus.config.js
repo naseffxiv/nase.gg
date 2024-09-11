@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   //Site info
   title: 'NASE.gg',
-  tagline: 'A FFXIV High-end Duty Repository for NA Party Finder and info hub for the NASE Discord.',
+  tagline: 'A FFXIV High-end Duty repository for NA Party Finder and info hub for the NASE Discord.',
   favicon: 'img/favicon.ico',
   //Production URL
   url: 'https://nase.netlify.app',
