@@ -12,7 +12,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # M3S - Brute Bomber
-![Brute_Bomber_from_FFXIV](/arcadion/light-heavyweight/Brute_Bomber_from_FFXIV.webp)
+![M3S_Arena](/arcadion/light-heavyweight/M3S_Arena.png)
 
 ***
 
@@ -60,3 +60,5 @@ No guide follows NA Party Finder 1-1. When one is made we will include it.
 ## Detailed Fight Overview
 
 Work in progress...
+
+***

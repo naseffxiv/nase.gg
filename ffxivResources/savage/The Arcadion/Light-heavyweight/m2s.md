@@ -12,7 +12,7 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # M2S - Honey B. Lovely
-![Honey_B_Lovely_from_FFXIV](/arcadion/light-heavyweight/Honey_B_Lovely_from_FFXIV.webp)
+![M2S_Arena](/arcadion/light-heavyweight/M2S_Arena.png)
 
 ***
 
@@ -64,3 +64,5 @@ No guide follows NA Party Finder 1-1. When one is made we will include it.
 ## Detailed Fight Overview
 
 Work in progress...
+
+***

@@ -3,8 +3,8 @@ import styles from './styles.module.css';
 import CardGenerator from '@site/src/components/CardGenerator';
 import arcadion from '@site/static/arcadion/the_arcadion.jpg'
 import naseSocialCard from '@site/static/img/nase-social-card.png'
-import zoraalJa from '@site/static/extreme/Zoraal_Ja_EX_boss.jpg'
-import AAI from '@site/static/criterion/Another_Aloalo_Island.jpg'
+import dawntrail from '@site/static/extreme/Zoraal_Ja.png'
+import AAI from '@site/static/criterion/AAI.jpg'
 
 // TODO: clean this up
 export default function LandingPageContent({style}) {
@@ -17,24 +17,17 @@ export default function LandingPageContent({style}) {
               <div className={styles.headingOne} style={style}>
                 Welcome to NASE.gg
               </div>
-              <div className={styles.headingThree} style={style}>
+              <div className={styles.headingTwo} style={style}>
                 <div>
-                  NASE.gg serves as a repository for High-end Duty resources as well as an info hub for the North America Savage and Extreme (NASE) Discord Community. 
-                  Our repository holds a collection of guides, resources, and tools for High-end content in FFXIV that are commonly used on NA Data Centers. 
-                </div>
-                <div>
-                  We currently cover the following types of content: Savage Raids, Extreme Trials, and Criterion Dungeons. Feel free to browse our repository or take a look into the NASE Discord Community below.
-                </div>
-                <div>
-                  NASE.gg is Open-source and contributions are welcome. If you would like to contribute to the site, please visit our GitHub repository.
+                  FFXIV High-end Duty Repository for NA Party Finder and info hub for the NASE Discord. 
                 </div>
               </div>
             </div>
             <div className={styles.gridContainer}>
-              <CardGenerator image={arcadion} url="/aac" title='Latest Savage Raids' />
-              <CardGenerator image={zoraalJa} url="/extreme_dt" title='Latest Extreme Trials' />
-              <CardGenerator image={AAI} url="/criterion_ew" title='Latest Criterion Dungeons' />
-              <CardGenerator image={naseSocialCard} url="/about" title='NASE Info' />
+              <CardGenerator image={naseSocialCard} url="/about" title='Learn more about NASE' />
+              <CardGenerator image={arcadion} url="/aac" title='Latest Savage Tier' />
+              <CardGenerator image={dawntrail} url="/dawntrail-trials" title='Latest Extreme Trials' />
+              <CardGenerator image={AAI} url="/endwalker-criterion" title='Latest Criterion Dungeons' />            
             </div>
           </div>
         </div>

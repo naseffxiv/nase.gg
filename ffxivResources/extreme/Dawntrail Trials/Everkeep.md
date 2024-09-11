@@ -1,16 +1,16 @@
 ---
-title: Ex. 2 - Everkeep
-slug: /extreme_dt/everkeep
 sidebar_position: 2
-pagination_next: null
-pagination_prev: null
+sidebar_custom_props:
+  cardImage: '/extreme/Zoraal_Ja.png'
+title: Ex. 2 - Everkeep
+slug: /dawntrail-trials/everkeep
 ---
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # Ex. 2 - Everkeep
-![Zoraal_Ja_EX_boss](/extreme/Zoraal_Ja_EX_boss.jpg)
+![Zoraal_Ja_EX_boss](/extreme/Zoraal_Ja.png)
 
 ***
 
@@ -48,3 +48,5 @@ Conga | RMMR
 ### Hector Hectorson | Dawntrail Extreme 2 Guide
 
 <YouTube youTubeId="Du3QNaUkIt0" />
+
+***

@@ -1,13 +1,13 @@
 ---
+sidebar_position: 2
+sidebar_custom_props:
+  cardImage: '/criterion/AMR.jpg'
 title: Another Mount Rokkon
-slug: /criterion_ew/amr
-sidebar_position: 3
-pagination_next: null
-pagination_prev: null
+slug: /endwalker-criterion/amr
 ---
 
 # Another Mount Rokkon
-![Another_Mount_Rokkon](/criterion/Another_Mount_Rokkon.jpg)
+![Another_Mount_Rokkon](/criterion/AMR_Arena.png)
 
 ## [Pastebin Summary](https://pastebin.com/wZups8t2)
 ***
@@ -54,4 +54,4 @@ Shadow Twin 2: Supports opposite the blue soldier, DPS adjust to the other safe 
 * https://raidplan.io/plan/yWjyvLysjEe6FpJU
 * https://imgur.com/a/K980Plo
 
-
+***

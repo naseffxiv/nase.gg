@@ -30,14 +30,9 @@ const AboutPage = () => (
         <h2 style={styles.heading}>What Do We Offer?</h2>
         <p style={styles.paragraph}>
           In addition to our community and platform for discussing and collaborating on raiding content, we also offer a learning platform for new raiders looking to get into raiding. 
-          Learn more about our Learning Parties on the next page.
+          Visit our <a href="/learning">Learning Parties</a> page to learn more about how you can get started with raiding in FFXIV.
         </p>
 
-        <div style={styles.buttonContainer}>
-          <button style={styles.button} onClick={() => window.location.href = '/learning'}>
-            Go to Learning Parties
-          </button>
-        </div>
       </div>
     </div>
   </Layout>
