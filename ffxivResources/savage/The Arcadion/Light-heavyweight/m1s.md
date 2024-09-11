@@ -1,4 +1,7 @@
 ---
+sidebar_position: 1
+sidebar_custom_props:
+  cardImage: 'arcadion/light-heavyweight/Black_Cat_from_FFXIV.webp'
 title: M1S - Black Cat
 slug: /aac/lhw/m1s
 pagination_next: null

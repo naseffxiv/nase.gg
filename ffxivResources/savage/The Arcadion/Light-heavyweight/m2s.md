@@ -1,4 +1,7 @@
 ---
+sidebar_position: 2
+sidebar_custom_props:
+  cardImage: 'arcadion/light-heavyweight/Honey_B_Lovely_from_FFXIV.webp'
 title: M2S - Honey B. Lovely
 slug: /aac/lhw/m2s
 pagination_next: null
