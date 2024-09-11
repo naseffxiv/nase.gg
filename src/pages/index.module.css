@@ -1,0 +1,25 @@
+.heroBanner {
+  position: relative;
+  height: 60vh; /* Adjust height as needed */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white; /* Ensures text is visible on all backgrounds */
+}
+
+.heroBanner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* Optional overlay for better text visibility */
+  z-index: 1;
+}
+
+.heroContainer {
+  position: relative;
+  z-index: 2; /* Ensures content is above the overlay */
+}

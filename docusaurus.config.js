@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   //Site info
   title: 'NASE.gg',
-  tagline: 'Website for the NASE Discord and FFXIV NA Savage and Extreme raiders.',
+  tagline: 'A FFXIV High-end Duty repository for NA Party Finder and info hub for the NASE Discord.',
   favicon: 'img/favicon.ico',
   //Production URL
   url: 'https://nase.netlify.app',
@@ -152,7 +152,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Contribute',
             items: [
               {
                 label: 'GitHub Repository',
@@ -161,7 +161,7 @@ const config = {
             ],
           },
         ],
-        copyright: `FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. | © SQUARE ENIX CO., LTD. All rights reserved. | All content © their respective authors. | NASE is a non-profit community-owned website.`,
+        copyright: `FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. | © SQUARE ENIX CO., LTD. All rights reserved. | All content © their respective authors.`,
       },
       prism: {
         theme: prismThemes.github,

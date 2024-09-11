@@ -9,6 +9,6 @@
       "title": "AAC Light-Heavyweight"
     },
     "customProps": {
-      "description": "This description can be used in the swizzled DocCard"
+      "cardImage": "arcadion/lhw.png"
     }
 }

@@ -1,44 +1,39 @@
-// src/HomePage.js
-import React from 'react';
-import Layout from '@theme/Layout'; // Import Docusaurus Layout component
-import './HomePage.css'; // Import custom CSS for styling
+import clsx from 'clsx';
+import Layout from '@theme/Layout';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import styles from './index.module.css';
 
-const HomePage = () => {
+const backgroundImage = '/img/nase-background.png';
+
+function HomepageHeader() {
   return (
-    <Layout
-      title="Welcome to NASE.gg"
-      description="FFXIV High-end Duty Repository for NA Party Finder and info hub for the NASE Discord."
+    <header
+      className={clsx('hero', styles.heroBanner)}
+      style={{
+        backgroundImage: `url(${backgroundImage})`,
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundRepeat: 'no-repeat',
+        color: 'white', // Ensures text is visible on all backgrounds
+      }}
     >
-      <div className="homepage">
-        {/* Page Title and Subtitle */}
-        <div className="hero-section">
-          <h1>Welcome to NASE.gg</h1>
-          <p>A FFXIV High-end Duty Repository for NA Party Finder and info hub for the NASE Discord.</p>
-        </div>
-
-        {/* Banners */}
-        <div className="banner nase-banner">
-          <h2>NASE Info</h2>
-          <p>Learn about NASE and what our community has to offer .</p>
-        </div>
-
-        <div className="banner savage-banner">
-          <h2>Savage Raids</h2>
-          <p>Stay up to date with NA Party Finder strats.</p>
-        </div>
-
-        <div className="banner extreme-banner">
-          <h2>Extreme Trials</h2>
-          <p>Challenge the latest Extreme Trials.</p>
-        </div>
-
-        <div className="banner criterion-banner">
-          <h2>Criterion Dungeons</h2>
-          <p>Explore the latest Criterion Dungeons.</p>
-        </div>
+      <div className={clsx('container', styles.heroContainer)}>
+        <h1 className="hero__title">Welcome to NASE.gg</h1>
+        <p className="hero__subtitle">A FFXIV High-end Duty Repository for NA Party Finder and info hub for the NASE Discord.</p>
       </div>
+    </header>
+  );
+}
+
+export default function Home() {
+  return (
+    <Layout title="Home" description="Homepage for NASE.">
+      <HomepageHeader />
+      <main>
+        {
+          <HomepageFeatures />
+        }
+      </main>
     </Layout>
   );
-};
-
-export default HomePage;
+}
