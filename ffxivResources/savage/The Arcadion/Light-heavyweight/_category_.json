@@ -6,7 +6,8 @@
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "AAC Light-Heavyweight"
+      "title": "AAC Light-Heavyweight",
+      "slug": "/aac/lhw"
     },
     "customProps": {
       "cardImage": "arcadion/lhw.png"
