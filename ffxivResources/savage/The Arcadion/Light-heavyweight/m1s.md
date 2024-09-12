@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 
 ## Party Finder Summary
 
-### Party Finder TL;DR {tldr}
+### Party Finder TL;DR
 
 ```
 TN | Same Bait Intercards | Supp CCW | THD | MTTT
