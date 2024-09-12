@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 
 ## Party Finder Summary
 
-### Party Finder TL;DR {tldr}
+### Party Finder TL;DR
 
 ```
 A1: MK N | Braindead B2 | A2: Supp NW DPS SE | Clock Defams/Color Towers | Rot 6s

@@ -18,7 +18,7 @@ import TabItem from '@theme/TabItem';
 
 ## Party Finder Summary
 
-### Party Finder TL;DR {tldr}
+### Party Finder TL;DR
 
 ```
 Shabin/Hector | Uptime/AutoCAD OR Normal Sunrise
@@ -71,9 +71,9 @@ No guide follows NA Party Finder 1-1. When one is made we will include it.
 
 ### Witch Hunt
 
-### Electrope Edge 1 {ee1}
+### Electrope Edge 1
 
-### Electrope Edge 2 {ee2}
+### Electrope Edge 2
 
 ### Static Cannons
 
