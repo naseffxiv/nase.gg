@@ -1,11 +1,11 @@
 # nase.gg
-This reposity is the underlying code for the NASE Discord and FFXIV NA raiding community. It is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. Contirubtions are welcome! If you would like to contribute to the site, please read the section below.
+This reposity is the underlying code for the NASE Discord and FFXIV NA raiding community. It is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. Contributions are welcome! If you would like to contribute to the site, please read the section below.
 
 # How to contribute
 
 This guide will walk you through the steps to fork the repository, make changes, and submit a pull request (PR) to contribute.
 
-If you already know how to ccontribute to a GitHub repository, feel free to skip this.
+If you already know how to contribute to a GitHub repository, feel free to skip this.
 
 ## Table of Contents
 
