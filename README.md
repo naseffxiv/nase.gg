@@ -7,7 +7,7 @@ Contirubtions are welcome! If you would like to contribute to the site, please r
 
 This guide will walk you through the steps to fork the repository, make changes, and submit a pull request (PR) to contribute.
 
-If you already know how to ccontribute to a GitHub repository, feel free to skip this.
+If you already know how to contribute to a GitHub repository, feel free to skip this.
 
 ## Table of Contents
 
