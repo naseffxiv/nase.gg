@@ -3,7 +3,7 @@ sidebar_position: 3
 sidebar_custom_props:
   cardImage: '/criterion/AAI.jpg'
 title: Another Aloalo Island
-slug: /endwalker-criterion/aai
+slug: /aai
 ---
 
 # Another Aloalo Island

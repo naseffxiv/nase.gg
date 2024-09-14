@@ -3,7 +3,7 @@ sidebar_position: 2
 sidebar_custom_props:
   cardImage: '/criterion/AMR.jpg'
 title: Another Mount Rokkon
-slug: /endwalker-criterion/amr
+slug: /amr
 ---
 
 # Another Mount Rokkon

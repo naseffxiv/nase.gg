@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_custom_props:
   cardImage: '/criterion/ASS.jpg'
 title: Another Sil'dihn Subterrane
-slug: /endwalker-criterion/ass
+slug: /ass
 ---
 
 # Another Sil'dihn Subterrane

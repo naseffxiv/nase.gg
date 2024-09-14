@@ -1,5 +1,7 @@
 # nase.gg
-This reposity is the underlying code for the NASE Discord and FFXIV NA raiding community. It is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. Contirubtions are welcome! If you would like to contribute to the site, please read the section below.
+This reposity is the underlying code for the NASE Discord and FFXIV NA raiding community. 
+It is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. 
+Contirubtions are welcome! If you would like to contribute to the site, please read the section below.
 
 # How to contribute
 
@@ -20,7 +22,8 @@ If you already know how to ccontribute to a GitHub repository, feel free to skip
 
 1. Go to the GitHub page of the original Docusaurus project you want to contribute to.
 
-2. Click the **Fork** button in the top right corner of the page. This action will create a copy of the repository under your GitHub account.
+2. Click the **Fork** button in the top right corner of the page. 
+This action will create a copy of the repository under your GitHub account.
 
 ## Clone Your Forked Repository
 
@@ -77,7 +80,8 @@ Replace `my-feature-branch` with a descriptive name for your branch.
     ```bash
     npm run start
     ```
-2. Open your browser and navigate to `http://localhost:3000`. You should see the Docusaurus site running locally with your changes.
+2. Open your browser and navigate to `http://localhost:3000`. 
+You should see the Docusaurus site running locally with your changes.
 
 3. Verify that your changes appear correctly and do not break any existing functionality.
 
