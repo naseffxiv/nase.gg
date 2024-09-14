@@ -3,7 +3,7 @@ sidebar_position: 2
 sidebar_custom_props:
   cardImage: '/extreme/Zoraal_Ja.png'
 title: Ex. 2 - Everkeep
-slug: /dawntrail-trials/everkeep
+slug: /everkeep
 ---
 
 import Tabs from '@theme/Tabs';
@@ -43,10 +43,8 @@ Conga | RMMR
 
 ***
 
-## Video Guides and Resouces
+## Video Guides
 
 ### Hector Hectorson | Dawntrail Extreme 2 Guide
 
 <YouTube youTubeId="Du3QNaUkIt0" />
-
-***

@@ -15,7 +15,6 @@ const config = {
   //Exception handling
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -55,7 +54,7 @@ const config = {
         logo: {
           alt: 'NASE logo',
           src: 'img/logo.png',
-        },
+        },  
         items: [
           {
             type: 'dropdown',
@@ -167,6 +166,28 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: '93PG6FS9AE',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '15ebfd17be5caa15f9ffcdc9373f1210',
+  
+        indexName: 'nase',
+  
+        // Optional: see doc section below
+        contextualSearch: true,
+  
+        // Optional: Algolia search parameters
+        searchParameters: {},
+  
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+  
+        // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
+        insights: false,
+      },
+  
     }),
 };
 
