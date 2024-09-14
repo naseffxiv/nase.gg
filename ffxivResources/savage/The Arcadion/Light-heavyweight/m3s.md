@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 sidebar_custom_props:
-  cardImage: 'arcadion/light-heavyweight/M3S_Arena.png'
+  cardImage: 'arcadion/light-heavyweight/Brute_Bomber_from_FFXIV.webp'
 title: M3S - Brute Bomber
 slug: /m3s
 pagination_next: null
