@@ -3,6 +3,7 @@ sidebar_position: 3
 sidebar_custom_props:
   cardImage: '/criterion/AAI.jpg'
 title: Another Aloalo Island
+description: Another Aloalo Island resource page.
 slug: /aai
 ---
 

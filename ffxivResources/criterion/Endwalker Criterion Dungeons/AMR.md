@@ -3,6 +3,7 @@ sidebar_position: 2
 sidebar_custom_props:
   cardImage: '/criterion/AMR.jpg'
 title: Another Mount Rokkon
+description: Another Mount Rokkon resource page.
 slug: /amr
 ---
 

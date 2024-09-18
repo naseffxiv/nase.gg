@@ -3,6 +3,7 @@ sidebar_position: 2
 sidebar_custom_props:
   cardImage: '/extreme/Zoraal_Ja.png'
 title: Ex. 2 - Everkeep
+description: Everkeep resource page.
 slug: /everkeep
 ---
 

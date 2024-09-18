@@ -3,6 +3,7 @@ sidebar_position: 3
 sidebar_custom_props:
   cardImage: 'arcadion/light-heavyweight/Brute_Bomber_from_FFXIV.webp'
 title: M3S - Brute Bomber
+description: M3S - Brute Bomber resource page.
 slug: /m3s
 pagination_next: null
 pagination_prev: null
@@ -76,13 +77,13 @@ Hector | No KBI | Supp CCW | MMRR
     Lariats are always resolved using True North clock spots, even if the boss was not facing north after a prior mechanic.
   </TabItem>
   <TabItem value="Dive" label="Dive">
-    Glowing hands -> knockback (KB); non-glowing hands -> flare/away. Knockback immunity (KBI) is recommended for maintaining melee uptime.
+    Glowing hands -> knockback (KB); non-glowing hands -> proximity AoE/away. Knockback immunity (KBI) is recommended for maintaining melee uptime.
   </TabItem>
   <TabItem value="Brutal Impact" label="Brutal Impact">
-    Starts with 4 hits. Adds 2 additional hits for every stack of Doping Draught, in addition to the 10% damage increase from Doping Draught.
+    Starts with 4 hits. Adds 2 additional hits for every stack of Doping Draught, in addition to the ~7 - 8% damage increase from Doping Draught.
   </TabItem>
   <TabItem value="Knuckle Sandwich" label="Knuckle Sandwich">
-    Starts with 4 hits. Adds 2 additional hits for every stack of Doping Draught, in addition to the 10% damage increase from Doping Draught.
+    Starts with 4 hits. Adds 2 additional hits for every stack of Doping Draught, in addition to the ~7 - 8% damage increase from Doping Draught.
     
     After the second Draught, tanks use invulnerability skills (invulns) for the tank busters (TBs), with the main tank (MT) going first, followed by the off-tank (OT). Regular mitigations are used for auto-attacks throughout the rest of the fight. 
     Hits are spread over 8 seconds, so precise timing on invulns is necessary.
@@ -103,7 +104,23 @@ Hector | No KBI | Supp CCW | MMRR
 First towers spawn at opposite cardinals. Melee players take the North or West tower, and ranged players take the South or East tower. 
 Group 1 rides the knockback to the left while facing the center, and Group 2 rides it to the right while facing the center.
 
-Do not attempt to use knockback immunity unless the entire party plans to do so; otherwise, it's a "barse"-only strategy.
+:::warning
+Do not attempt to use knockback immunity unless the entire party plans to do so!
+:::
+
+After riding to 2nd tower with your partner, take note where the boss teleported to. 
+He will be in a random intercardinal at the wall. 
+
+For 2nd tower, everyone rides to the middle for final tower. 
+At the final tower, you need to aim yourself behind the boss as he is casting Murderous Mist which is a 270 degree cone to the arena in front of him. 
+If you are hit you will have a damage down and poison debuff.
+
+
+:::tip
+- Light Party 1 (left side) can use the arrow on the ring around the tower as a guide.
+- Light Party 2 (right side) can use the start of the gap from the line at the top of the tower’s edge as a guide.
+- Subsequent  towers you can just use the arrows on the ground. 
+:::
 
 ***
 
@@ -114,6 +131,11 @@ Players must get hit by their clone's first attack but avoid the second one.
 
 Clones always invert their cleave direction when bouncing off the ropes, so the corner that is hit by both cleaves the first time will be safe for the second cleaves.
 This is immediately followed by a Lariat.
+
+:::tip
+Melees can maintain uptime standing at cardinal marker in front of their clone and just dodge appropriately to avoid the second clone. 
+DM2 this isn’t a guarantee.
+:::
 
 ***
 
@@ -131,6 +153,10 @@ Both bomb and player short fuses detonate simultaneously, and the roles swap sta
 * Group 1 M/T spreads to N or W; Group 2 M/T spreads to E or S.
 
 Immediately followed by a Dive to a random cardinal.
+
+:::tip
+Fusefield is boss acting damage. Addle/Rep/Feint all work for Fusefield (everything in fight except clone damage and fuses on heads are boss acting).
+:::
 
 ***
 
@@ -153,15 +179,25 @@ This is one of the only sources of magic damage in the entire fight and by far t
 
 ### Bombarian Special
 
-The "Octoboom" or "Quadroboom" during the initial cast bar indicates whether the ending will involve pairs or spreads.
+Before the mechanics starts, "Octoboom" or "Quadroboom" will be included in the initial cast bar indicating whether the ending will involve pairs or spreads.
 
+This mechanic starts with 5 aoe hits, followed by a point blank aoe around the boss. 
+After the point black AoE, he will follow up with a donut and 1 last AoE hit.
+These AoE hits do a lot of damage so plan to mitigate and heal through it.
+
+Once all AoEs are cast, a blue knock back marker spawn which can either be KBI or riden to the intercardinal.
+Then you resolve spread/pairs. 
+
+:::warning
 Total damage from this sequence is significantly higher than the Big Impact under 2x Doping Draught.
+:::
 
 ***
 
 ### Chain Deathmatch 2
 
-Players will be chained to one clone and the boss and will only see their own chains. Players must get hit by their clone's first cleave and the boss's cast of Murderous Mist (at a random cardinal).
+Players will be chained to one clone and the boss and will only see their own chains. 
+Players must get hit by their clone's first cleave and the boss's cast of Murderous Mist (at a random cardinal).
 
 Clones always invert their cleave direction when bouncing off the ropes, so the corner that is hit by both cleaves the first time will be safe for the second cleaves.
 

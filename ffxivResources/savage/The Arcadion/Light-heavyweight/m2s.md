@@ -3,6 +3,7 @@ sidebar_position: 2
 sidebar_custom_props:
   cardImage: 'arcadion/light-heavyweight/Honey_B_Lovely_from_FFXIV.webp'
 title: M2S - Honey B. Lovely
+description: M2S - Honey B. Lovely resource page.
 slug: /m2s
 pagination_next: null
 pagination_prev: null
@@ -91,14 +92,15 @@ A1: MK N | Braindead B2 | A2: Supp NW DPS SE | Clock Defams/Color Towers | Rot 6
 
 <Tabs>
   <TabItem value="Poison Drop" label="Poison Drop" default>
-    Pairs are R+T and M+H.
-
-    For line out -> in spreads, R spreads north toward the wall, and H spreads south toward the wall.
-
-    For donut -> intercardinal out, supports spread clockwise or to the left facing the boss, while DPS spreads counterclockwise or to the right facing the boss.
+    Drop of Venom = Spread | Splash of Venom = Pairs
+    - Pairs are R+T Noth and M+H South. Group 1 Left, Group 2 Right.
+    - For Drop of Venom - Moving In, spreads or RTHM in two lines, North to South Group 1 Left Group 2 Right. R spreads north toward the wall, and H spreads south toward the wall.
+    - For Drop of Venom - Moving Out, supports spread clockwise or to the left facing the boss, while DPS spreads counterclockwise or to the right facing the boss.
   </TabItem>
   <TabItem value="Stage Combo" label="Stage Combo" default>
-    No coordination of dodges. All lines and cleaves are aligned with the intercardinal compass arrows around the edge of the arena for reference.
+    Two possible patterns.
+    - Centerstage Combo: Start In on your safe intercardinal spot, move straight out, rotate to your cardinal spot.
+    - Outerstage Combo: Start Out on your safe cardinal, rotate to your intercardinal while staying out, move in to your intercardinal spot.
   </TabItem>
 </Tabs>
 
@@ -153,10 +155,34 @@ Debuff timers indicate defamation (defam) detonation. Timers are shared per role
 
 Towers spawn in pairs flanking opposite cardinals; only one tower will be adjacent to your intercardinal spread marker, so use it to determine which tower to soak for your role.
 
-The dodge from the center to soak the tower is quick, and the boss will perform another stage combo between the first and second sets of defams and towers.
+Before each defamation debuff expires, you will need to do either a Centerstage or Outerstage Combo.
+As the combo finishes, the players' debuff that is not expiring need to run to the center of the arena to not get hit by the defamations.
+The dodge from the center to soak the tower is quick.
+After the first set of tower resolve, the boss will perform another stage combo. 
+The debuff and tower soaking roles will be swapped.
 
 ***
 
 ### Rotten Heart
 
-Start in your clock spots. Plan for heavy mitigations and all self-heals, especially if the boss has multiple "simp" stacks, each of which adds 10% damage. With high DPS, most or all of this mechanic can be skipped.
+Before the mechanic starts, start in your clock spots. Everyone will be assigned either an Alpha (α) or Beta (β) debuff. 
+Players with different debuffs who touch with the opposite debuff will cause a heavy hitting raidwide and apply a magic vuln.=
+
+Each debuff has 4 sets of timers which are:
+- 1m
+- 44s
+- 28s
+- 12s
+
+These timings can mostly be ignored as you will pop them at the duration they are ending.
+Players will meet and touch in the center of the arena when their debuff reaches 6s remaining then return to their spot.
+Doing this allows enough time for the magic vuln to fall off and your healers to heal.
+
+If the debuffs are managed properly, the boss will be casting "Call Me Honey" as the vuln falls off.
+This is a heavy hitting raidwide and will be cast after each pop.
+
+Throughout this mechanic, plan for heavy mitigation and all self-heals, especially if the boss has multiple "simp" stacks, each of which adds ~3% damage.
+
+:::tip
+With high DPS, most or all of this mechanic can be skipped.
+:::

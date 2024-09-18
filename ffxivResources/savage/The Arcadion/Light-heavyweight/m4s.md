@@ -3,6 +3,7 @@ sidebar_position: 4
 sidebar_custom_props:
   cardImage: 'arcadion/light-heavyweight/Wicked_Thunder_from_FFXIV.webp'
 title: M4S - Wicked Thunder
+description: M4S - Wicked Thunder resource page.
 slug: /m4s
 pagination_next: null
 pagination_prev: null
@@ -161,6 +162,8 @@ There are 4 different types of witch hunts that occur in the first part of the f
 
     The difference with this mechanic is that Wicked Thunder clones will dive on either DPS or supports during the first cleave.
     The raid will need to spread from north to south, with ranged being far and melees being close.
+    Spread order is RTMH.
+
 
     As you move to your spread spot, look for the Electro-Cube safe spots and keep an eye on the floor. 
     The lines that are going to explode first will start to brighten.
@@ -255,6 +258,7 @@ When this debuff expires, the tile you are standing on will explode.
 
 Players will either get hit twice or three times. 
 Keep count of how many times you get hit, as this determines how many tiles explode.
+If you are a long debuff player, you need to +1 your count as you will receive an extra hit later.
 
 <Tabs>
   <TabItem value="First Debuff Spreads" label="First Debuff Spreads" default>
@@ -271,6 +275,11 @@ Keep count of how many times you get hit, as this determines how many tiles expl
   </TabItem>
   <TabItem value="Spreads or Partners" label="Spreads or Partners">
     After the first part of the mechanic resolves, Wicked Thunder will follow up with a half-room cleave and spread or partner orbs.
+
+    :::tip
+    The boss always faces True Noth.
+    :::
+
     As before: 4 orbs = partners, 8 orbs = spread. Resolve this part of the mechanic by looking at the cleave.
 
     **If it's a spread:**
@@ -327,6 +336,10 @@ The 2 tiles closest to the boss will be the tiles you resolve it on.
 The cannon shots and debuff positions will go off a total of 3 times. Keep track of your debuff color, as it could change or stay the same.
 The debuff you get after the cannon shot is always random.
 
+:::tip
+For color blind players, Yellow debuff/laser is two parallel lines, blue debuff/laser has crossed lines
+:::
+
 ### Transition
 
 During the transition into Phase 2, Wicked Thunder faces south and you will need to split into pairs: 
@@ -343,7 +356,7 @@ Next, instead of the normal cones, she will target those same players with a sha
 * If Supports have vulnerabilities, ranged get in front of the tanks.
 
 She will perform this mechanic twice in the same fashion. AoEs are random, and you could get hit again.
-After the second set, group near C and get ready to be knocked back onto the Phase 2 platform.
+After the second set, group south and get ready to be knocked back onto the Phase 2 platform.
 Your positions and angle matter for the knockback, so generally be near the marker, at max-melee or beyond.
 
 ***
@@ -379,7 +392,8 @@ You can survive without LB3, but it will make it much easier.
 After the 9 hits, split into light parties and prepare for Exaflares. 
 Both parties will need to go to the East and West edges of the arena, as healers will be targeted with stack markers.
 4 rows of Exaflares will telegraph in the arena, indicating which way they are going to move.
-Look for the row that does not have an Exaflare moving towards your direction.
+Look on the opposite edge of the arena for the row that has the Exaflare going into the wall/off the arena. 
+You can ignore all other Exaflares in the middle as they are irrelevant to the dodging.
 As the first Exaflares go off, dodge into the row that doesn't have the Exaflare moving toward you.
 
 As the Exaflares move off the arena and the stacks finish, the boss will cast a Wicked Special, followed by a Mustard Bomb, then an Aetherial Conversion - Tail Thrust combo.
