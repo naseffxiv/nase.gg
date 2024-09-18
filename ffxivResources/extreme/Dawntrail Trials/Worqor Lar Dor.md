@@ -3,6 +3,7 @@ sidebar_position: 1
 sidebar_custom_props:
   cardImage: '/extreme/Valigarmanda.png'
 title: Ex. 1 - Worqor Lar Dor
+description: Worqor Lar Dor resource page.
 slug: /worqor-lar-dor
 ---
 

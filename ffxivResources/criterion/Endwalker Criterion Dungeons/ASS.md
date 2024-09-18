@@ -3,6 +3,7 @@ sidebar_position: 1
 sidebar_custom_props:
   cardImage: '/criterion/ASS.jpg'
 title: Another Sil'dihn Subterrane
+description: Another Sil'dihn Subterrane resource page.
 slug: /ass
 ---
 
