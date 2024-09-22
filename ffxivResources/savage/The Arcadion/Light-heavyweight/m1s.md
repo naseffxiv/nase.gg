@@ -60,7 +60,7 @@ TN | Same Bait Intercards | Supp CCW | THD | MTTT
 
 <Tabs>
   <TabItem value="MTTT" label="MTTT" default>
-    [MTTT Raidplan](https://raidplan.io/plan/3Kfzojuys7fOQs1)
+    [DiaStarvy MTTT Raidplan](https://raidplan.io/plan/3Kfzojuys7fOQs1v)
   </TabItem>
 </Tabs>
 
