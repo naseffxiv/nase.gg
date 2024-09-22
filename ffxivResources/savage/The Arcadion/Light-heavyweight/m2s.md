@@ -92,7 +92,7 @@ A1: MK N | Braindead B2 | A2: Supp NW DPS SE | Clock Defams/Color Towers | Rot 6
 
 <Tabs>
   <TabItem value="Poison Drop" label="Poison Drop" default>
-    Drop of Venom = Spread | Splash of Venom = Pairs
+    Drop of Venom = Pairs | Splash of Venom = Spread
     - Pairs are R+T Noth and M+H South. Group 1 Left, Group 2 Right.
     - For Drop of Venom - Moving In, spreads or RTHM in two lines, North to South Group 1 Left Group 2 Right. R spreads north toward the wall, and H spreads south toward the wall.
     - For Drop of Venom - Moving Out, supports spread clockwise or to the left facing the boss, while DPS spreads counterclockwise or to the right facing the boss.
