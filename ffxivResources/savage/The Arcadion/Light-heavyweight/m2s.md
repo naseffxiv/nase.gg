@@ -33,7 +33,7 @@ A1: MK N | Braindead B2 | A2: Supp NW DPS SE | Clock Defams/Color Towers | Rot 6
   <TabItem value="MarioKart" label="A1: MK N" default>
     AKA: Mario Kart
 
-    Alarm Pheromones 1 will start in the north to begin baiting the bee lines. After the 4th line appears, move clockwise around the arena.
+    Alarm Pheromones 1 will start in the north to begin baiting the bee lines. After the 4th line appears, move clockwise or counterclockwise around the arena. Make sure that you obey the pattern as the bees spawn in. Use judgment on best direction to go.
 
     :::tip
     You may see the strategy "Melee N, Ranged S." Bait the first four lines in the center of the arena; afterward, only melee jobs move north, while ranged jobs move south. Both groups then rotate clockwise to dodge baits.
