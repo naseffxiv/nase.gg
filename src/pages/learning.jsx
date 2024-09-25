@@ -17,7 +17,7 @@ const LearningPartiesPage = () => (
         
         <h2 style={styles.heading}>Interested in Signing Up for a Learning Party?</h2>
         <p style={styles.paragraph}>
-          <a href="https://forms.gle/ryixr6eCY744MhFh8" style={styles.link}>» Click Here «</a> to sign up.
+          <a href="https://forms.gle/TiixRxzeEKUHey626" style={styles.link}>» Click Here «</a> to sign up.
         </p>
         <p style={styles.paragraph}>
           Before submitting the sign-up form, please check out the <a href="https://discord.com/channels/1277285922328678452" style={styles.inlineLink}>#learning-parties</a> channel in our Discord to see if any listed parties match your availability and progression point. 
@@ -35,7 +35,7 @@ const LearningPartiesPage = () => (
 
         <h2 style={styles.heading}>Interested in Applying to Be a Teacher or Helper?</h2>
         <p style={styles.paragraph}>
-          <a href="https://forms.gle/iDWZbD4eLpN5Jfyt7" style={styles.link}>» Click Here «</a> to apply.
+          <a href="https://forms.gle/TiixRxzeEKUHey626" style={styles.link}>» Click Here «</a> to apply.
         </p>
         <p style={styles.paragraph}>
           If you're interested but unsure whether you meet all of the requirements, feel free to apply and tell us more about yourself in the application. You can also DM Symph with any additional questions.
