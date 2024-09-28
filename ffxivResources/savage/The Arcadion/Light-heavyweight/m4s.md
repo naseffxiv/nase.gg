@@ -22,7 +22,7 @@ import TabItem from '@theme/TabItem';
 ### Party Finder TL;DR
 
 ```
-Shabin/Hector | Uptime/AutoCAD OR Normal Sunrise
+Shabin | Uptime/AutoCAD OR Normal Sunrise
 ```
 
 ***
