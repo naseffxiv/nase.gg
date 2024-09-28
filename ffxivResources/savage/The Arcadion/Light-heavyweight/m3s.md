@@ -22,7 +22,7 @@ import TabItem from '@theme/TabItem';
 ### Party Finder TL;DR
 
 ```
-Hector | No KBI | Supp CCW | MMRR
+Hector | Supp CCW | MMRR
 ```
 
 ***
