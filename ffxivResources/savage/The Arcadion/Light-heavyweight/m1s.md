@@ -159,6 +159,13 @@ Boss-relative positioning is not widely used. If using boss-relative, treat the 
       This AoE will affect all tiles directly adjacent to the hit player's position in all cardinal directions. 
       Players who are not marked can safely stand on a tile diagonal from the marked player.
   </TabItem>
+   <TabItem value="Shockwave and Spreads" label="Shockwave and Spreads">
+    After Mouser finishes, we will have another tank buster. Handle this either with a tank swap or tank immunity. Following the tank buster, the arena will start to reform and knockback telegraph will spawn on the ground.
+    This Knockback cannot be resisted, gap closers can be used to negate when timed correctly. As the knockback is about to release, all players will be marked with aoes.
+     
+     To handle this we have G1 priotize North and G2 priortize south. You will want to get knockbacked into the corner of the arena that is respawning quicker than it's neighbor. 
+     Tanks and Melees will gap close/jump back to the boss, all supports will spread BR left, and all dps will spread BR right to resolve the spreads.
+  </TabItem>
 </Tabs>
 
 ***
@@ -204,6 +211,7 @@ The order of these events is random.
 
 Protean spreads are boss-relative, from left to right: Tank - Healer - DPS.
 
+Following Mouser 2 we will have the same as Mouser 1 Tankbuster - > Shockwave -> AoEs on all players. Resolve in the same fashion as before. Tanks will need to hold invulns for this buster.
 ***
 
 ### Raining Cats
