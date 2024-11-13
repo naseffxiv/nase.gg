@@ -4,7 +4,7 @@ sidebar_custom_props:
   cardImage: '/extreme/Sphene.png'
 title: Ex. 3 - Sphene's Burden
 description: Sphene resource page.
-slug: /sphene-burden
+slug: /sphene
 ---
 
 import Tabs from '@theme/Tabs';
