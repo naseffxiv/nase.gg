@@ -10,7 +10,7 @@ slug: /sphene-burden
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Ex. 1 - Worqor Lar Dor
+# Ex. 3 - Sphene's Burden
 ![Sphene.png](/extreme/Sphene.png)
 
 ***
