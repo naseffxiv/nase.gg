@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 ### Party Finder TL;DR
 
 ```
-L Meteors | CW Coronation | Support South DPS North | MTTT
+L Meteors | CW Coronation | Support South DPS North | Mit Authority | MTTT
 ```
 
 ### Party Finder Terms
@@ -34,6 +34,9 @@ L Meteors | CW Coronation | Support South DPS North | MTTT
   </TabItem>
     <TabItem value="Support South DPS North" label="Support South DPS North" default>
     During the Hourglass platform with chains, Supports run South, DPS run North to break.
+  </TabItem>
+    <TabItem value="Mit Authority" label="Mit Authority" default>
+    Instead of dividing the party, heavy shields and mitigation are used for the stack and falre.
   </TabItem>
     <TabItem value="MTTT" label="MTTT" default>
     The order in which the tethers during "Ice" phase are taken.
@@ -78,7 +81,7 @@ Sphene will target players 1 at a time with a line AoE. Spread out around the bo
 
 ### Laws of Earth
 
-Tornados spawn in the center of two platforms. Stand on the tornado to activate the leviation. (Standing on it again will deactivate the ability.) Move center and dodge both hits of Legitimate Force. As the 2nd hit resolves towers will spawn. Group 1 will take West towers, Group 2 will take east towers. Have supports middle, DPS outer, Melee front, Ranged back. (The timing is tight if your side is the second hit, sprint is good here!)
+Tornados spawn in the center of two platforms. Stand on the tornado to activate the levitation. (Standing on it again will deactivate the ability.) Move center and dodge both hits of Legitimate Force. As the 2nd hit resolves towers will spawn. Group 1 will take West towers, Group 2 will take east towers. Have supports middle, DPS outer, Melee front, Ranged back. (The timing is tight if your side is the second hit, sprint is good here!)
 
 Gravitational Empire will give 1 defamation (Targeted AoE on a player) and 1 tether (that will be hit with a large conal AoE) to a player on each platform. Have the defamation player move to the edge of the arena (East or West) and slightly South. This avoids the Cleave and doesn't block the tower. The tether player moves to the North corner on their side. The remaining 2 players soak towers. 
 
@@ -98,12 +101,13 @@ Queen will spawn four triangles, one on each cardinal of the arena. Each triangl
 
 ### Absolute Authority
 
+Standard resolution and explination:
 All players drop large ground AoEs centered on the players. Starting center, move North edge to edge for the first 3 AoEs. Then Group 1 goes West and Group 2 goes East. At this point either all DPS or all Supports will receive a flare marker (proximity based damage centered on the player). Melee flare players will stay in the northern corner. Ranged player will move along the wall to the center edge of the arena. The remaining four players move middle as one will receive a shared stack marker. 
 
 Once the flares and stack marker resolve, every player is given a red triangle over their head. This denotes that the player cannot be alone or they will explode. The party at center stays still. The flare players on each side collapse to each other along the wall. 
 
 
-You may see mit Authority. This is a strat where everyone stays stacked and mits the damage from all of the mechanics as there is no vulnerability up. 
+You may see "Mit Authority". This is a strat where everyone stays stacked and mits the damage from all of the mechanics as there is no vulnerability up. The party starts stacked North West and moves in a straight line to North East, placing the puddles edge to edge. 
 
 
 As all of this resolves the party starts taking continuous AoE damage and arrows appear on the floor. Either Surecast/Arms Length for knockback immunity or move to the front of the arena. 
@@ -153,7 +157,7 @@ This will happen a 2nd time before the platform returns to normal.
 
 Exaflares (Large circle ground AoEs that move in a direction and repeat, indicated by arrows on the Aoe) will spawn north. There will be two sets, alternating columns. Stand in front of the second set to spawn and move either left or right to dodge into the 2nd hit of this exaflare.
 
-Tyranny's Grasp. Queen will do a large AoE on the front half of the arena and spawn two towers. Tanks need to take these will cooldowns while the party just dodge the ground AoE. 
+Tyranny's Grasp. Queen will do a large AoE on the front half of the arena and spawn two towers. Tanks need to take these with cooldowns while the party just dodges the ground AoE. 
 
 Queen will repeatedly slam the ground for heavy raid wide damage. Then a heavy multi-hit line AoE.
 
