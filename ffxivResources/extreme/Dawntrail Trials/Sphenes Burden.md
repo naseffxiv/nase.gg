@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 ### Party Finder TL;DR
 
 ```
-L Meteors | CW Coronation | Support South DPS North | Mit Authority | MTTT
+L Meteors | CW Coronation | Support South DPS North | Mit Authority | Fixed Ice | MTTT
 ```
 
 ### Party Finder Terms
