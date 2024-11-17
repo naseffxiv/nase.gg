@@ -148,7 +148,7 @@ For MTTT tethers, tanks will take the next tethers. Then invuln the 3rd and 4th 
 
 Line marks appear on the floor. Platforms appear on the East and West in the air. There will be 2 distinct sets of outlines for these platforms, with different colors. Pay attention to the outside of the arena. It will be swirling either clockwise or counter clockwise. The platforms will move in the same direction. If the background is swirling clockwise, the East platform will be the new platform.
 
-As the platform changes, players are knocked up and every player receives a personal AoE that goes off shortly after. Reference the images below for spread positions.
+As the platform changes, every player receives a personal AoE that goes off shortly after. Reference the images below for spread positions.
 This will happen a 2nd time before the platform returns to normal.
 
 ***
