@@ -38,6 +38,9 @@ L Meteors | CW Coronation | Support South DPS North | Mit Authority | MTTT
     <TabItem value="Mit Authority" label="Mit Authority" default>
     Instead of dividing the party, heavy shields and mitigation are used for the stack and falre.
   </TabItem>
+    <TabItem value="Fixed Ice" label="Fixed Ice" default>
+    During the Ice phase with tethers. Players move in a fixed pattern according to which icicle they are tethered to.
+  </TabItem>
     <TabItem value="MTTT" label="MTTT" default>
     The order in which the tethers during "Ice" phase are taken.
   </TabItem>
@@ -118,9 +121,9 @@ As all of this resolves the party starts taking continuous AoE damage and arrows
 
 Players will have a count down ice icon appear above their heads. When the timer expires the players need to have continous movement for a few seconds or be frozen. 
 
-Players now line up North to South, DPS on the East, Supports on the West. From North: M1, M2, R1, R2. Next either all DPS or all supports will be tethered to crystals on the edge of the arena. 
+Players will be tethered by crystals in role sets. Either all DPS or all Supports for the first set, tethering to crystals behind the platforms. Next the other role will tether to crystals at the East and West past the platform. Additionally ice platforms will connect the center and side platforms. Players need to cross a bridge away from their crystal, however two players being on a bridge at the same time will cause it to break. A player tethered to a South crystal needs to go North. A player tethered to a West crystal needs to go East. While on the platform tethered to a South Crystal Move all the way north. The more West crystal player stays more West. Same for East crystal player.
 
-Players need to cross a bridge away from their crystal, however two players being on a bridge at the same time will cause it to break. A player tethered to a West crystal needs to go East. Players to the north get to move first. Melee always take the north platform, Ranged always take the South. (This means Group 1 players can always go immeadiately on being tethered as they have a higher priority.) While on the platform tethered to a South Crystal Move all the way north. The more West crystal player stays more West. Same for East crystal player.
+For the first set of tethers players use a static system to determine which bridge to cross. Players tethered to outer crystals will cross using the North bridges. Players tethered to the center crystals will cross using the South bridges.
 
 Next a second set of tethers comes out targeting the other role. These crystals spawn East and West. Move away from your crystal across the bridge. The player tethered to the northern most side crystal positions betweent he two crystals on their side. The southern most side crystal positions closer to the south wall. 
 
