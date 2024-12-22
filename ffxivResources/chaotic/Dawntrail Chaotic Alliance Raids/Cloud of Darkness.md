@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Cloud of Darkness (Chaotic)
+title: Cloud of Darkness
 description: Cloud of Darkness (Chaotic) resource page.
 slug: /cloud-of-darkness
 ---
@@ -8,7 +8,7 @@ slug: /cloud-of-darkness
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-# Cloud of Darkness (Chaotic)
+# Cloud of Darkness
 
 The first Chaotic Alliance Raid launches at 2:00 AM Pacific on December 24.
 
