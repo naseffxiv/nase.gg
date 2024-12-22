@@ -132,7 +132,7 @@ const config = {
               },
               {
                 label: 'Chaotic Alliance Raids',
-                to: '/chaotic',
+                to: '/dawntrail-chaotic',
               },
             ],
           },
