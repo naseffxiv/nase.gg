@@ -1,0 +1,12 @@
+{
+    "position": 2.5,
+    "label": "Chaotic Alliance Raids",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "Chaotic Alliance Raids",
+      "slug": "chaotic"
+    }
+}
