@@ -76,6 +76,11 @@ const config = {
                 sidebarId: 'criterionSidebar',
                 label: 'Criterion Dungeons',
               },
+              {
+                type: 'docSidebar',
+                sidebarId: 'chaoticSidebar',
+                label: 'Chaotic Alliance Raids',
+              },
             ]
           },
           {
@@ -124,6 +129,10 @@ const config = {
               {
                 label: 'Criterion Dungeons',
                 to: '/endwalker-criterion',
+              },
+              {
+                label: 'Chaotic Alliance Raids',
+                to: '/dawntrail-chaotic',
               },
             ],
           },
