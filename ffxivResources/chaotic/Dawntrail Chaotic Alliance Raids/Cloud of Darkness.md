@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Cloud of Darkness
 description: Cloud of Darkness (Chaotic) resource page.
-slug: /cloud-of-darkness
+slug: /cod
 ---
 
 import Tabs from '@theme/Tabs';
@@ -16,7 +16,11 @@ The first Chaotic Alliance Raid launches at 2:00 AM Pacific on December 24.
 
 The standard composition is 3 parties, each a standard 2 tanks, 2 healers, and 4 DPS.
 You can enter with as few as 4 players in each party, but the fight does not scale down in difficulty.
-We don't know the minimum number of players to clear.
+There are 24 player body checks so at current you are not able to clearable by 12 people. 
+
+Preliminary NASE mech document - https://tinyurl.com/NASEcloud 
+
+Preliminary RADAR Discord document - https://tinyurl.com/RadarCod
 
 ## Rewards
 
