@@ -22,6 +22,8 @@ Preliminary NASE mech document - https://tinyurl.com/NASEcloud
 
 Preliminary RADAR Discord document - https://tinyurl.com/RadarCod
 
+P2 Tiles - https://tinyurl.com/CoDP2Tiles - credit to Yono Oko (Armin in the Balance Discord)
+
 ## Rewards
 
 The raid's rewards include two new mounts and Clouddark gear,
