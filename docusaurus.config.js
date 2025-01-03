@@ -144,7 +144,7 @@ const config = {
                 to: '/about',
               },
               {
-                label: 'Learning Oppurtunities',
+                label: 'Learning Opportunities',
                 to: '/learning',
               },
             ],
