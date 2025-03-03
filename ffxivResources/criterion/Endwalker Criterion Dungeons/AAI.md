@@ -19,8 +19,8 @@ Spring Crystals: Bubbles start on their side
 
 Blowing Bubbles: https://raidplan.io/plan/Qd9wT5qbc3-l1QWc
 
-Adds: TR N cw/HM W ccw, melees swap, color match
-Angry Seas: HM W/TR E, Supp north for spreads, HR take bubble across, TM take middle tower, KB resist if stack first
+* Adds: TR N cw/HM W ccw, melees swap, color match
+* Angry Seas: HM W/TR E, Supp north for spreads, HR take bubble across, TM take middle tower, KB resist if stack first
 
 Adding 2 plans for Bubbles and Adds that go a little more in detail (strats are the same):
 * Bubbles: https://raidplan.io/plan/_7XudyTxVQWtT6wo
